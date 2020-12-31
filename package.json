@@ -1,0 +1,14 @@
+{
+  "name": "image-painter",
+  "version": "0.8.0",
+  "private": false,
+  "author": "caih",
+  "description": "use canvas add vectors to image ",
+  "keywords": ["canvas","image"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  
+}
