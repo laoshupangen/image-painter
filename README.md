@@ -78,7 +78,7 @@ data(){
           <!-- 设置画布背景 -->
           canvasBackground:'grey'
       })
-    //   自定义轨迹。支持自定义的轨迹 圆、椭圆等，默认的vector暂时只有矩形。其他的可以自己添加
+    //   自定义轨迹。支持自定义的轨迹 、椭圆等，默认的vector暂时有矩形、圆。其他的可以自己添加
       this.painter.addVector({
           <!-- name为自定义的名称，用于setDrawType内的type -->
           name:'auto',
